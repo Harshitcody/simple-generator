@@ -1,5 +1,5 @@
 import streamlit as st
-import torch
+import torch as t
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Page Config
